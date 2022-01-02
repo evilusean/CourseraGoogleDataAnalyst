@@ -5,6 +5,7 @@ https://www.coursera.org/professional-certificates/google-data-analytics
 https://grow.google/certificates/data-analytics/
 
 Foundations: Data, Data, Everywhere 
+
 Started: Jan 01 2022
 
 Ask Questions to Make Data-Driven Decisions
