@@ -6,7 +6,8 @@ https://grow.google/certificates/data-analytics/
 
 Foundations: Data, Data, Everywhere 
 
-Started: Jan 01 2022
+Started: 01 Jan 2022
+End: 07 Jan 2022
 
 Ask Questions to Make Data-Driven Decisions
 
