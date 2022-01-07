@@ -12,7 +12,7 @@ End: 07 Jan 2022
 
 Ask Questions to Make Data-Driven Decisions
 
-Started:
+Started: 07 Jan 2022
 
 End:
 
