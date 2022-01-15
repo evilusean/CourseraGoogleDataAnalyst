@@ -14,9 +14,13 @@ Ask Questions to Make Data-Driven Decisions
 
 Started: 09 Jan 2022
 
-End:
+End: 14 Jan 2022
 
 Prepare Data for Exploration
+
+Started: 15 Jan 2022
+
+End:
 
 Process Data from Dirty to Clean
 
