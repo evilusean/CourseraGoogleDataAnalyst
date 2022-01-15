@@ -1,0 +1,281 @@
+Week 1
+Data exploration
+Video: LectureIntroduction to data exploration
+. Duration: 3 minutes3 min
+Reading: Course syllabus
+. Duration: 10 minutes10 min
+Video: LectureHallie: Fascinating data insights
+. Duration: 2 minutes2 min
+. Click to resume
+Discussion Prompt: Meet and greet
+. Duration: 10 minutes10 min
+Refresher: Your data analytics certificate roadmap
+. Duration: 10 minutes10 min
+Reading: Deciding if you should take the speed track
+. Duration: 10 minutes10 min
+Practice Quiz: Optional: Familiar with data analytics? Take our diagnostic quiz
+12 questions
+Reading: Optional: Your diagnostic quiz score and what it means
+. Duration: 10 minutes10 min
+Collecting data
+Video: LectureData collection in our world
+. Duration: 3 minutes3 min
+Video: LectureDetermining what data to collect
+. Duration: 3 minutes3 min
+Reading: Selecting the right data
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on collecting data
+3 questions
+Differentiate between data formats and structures
+Video: LectureDiscover data formats
+. Duration: 5 minutes5 min
+Reading: Data formats in practice
+. Duration: 10 minutes10 min
+Practice Quiz: Self-Reflection: Unstructured data
+2 questions
+Video: LectureUnderstanding structured data
+. Duration: 1 minute1 min
+Reading: The structure of data
+. Duration: 10 minutes10 min
+Differentiating Data Types
+. Duration: 30 minutes30 min
+Reading: Data modeling levels and techniques
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on data formats and structures
+4 questions
+Explore data types, fields, and values
+Video: LectureKnow the type of data you're working with
+. Duration: 4 minutes4 min
+Reading: Understanding Boolean logic
+. Duration: 10 minutes10 min
+Video: LectureData table components
+. Duration: 2 minutes2 min
+Practice Quiz: Hands-On Activity: Applying a function
+2 questions
+Video: LectureMeet wide and long data
+. Duration: 3 minutes3 min
+Reading: Transforming data
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-on Activity: Introduction to Kaggle
+2 questions
+Practice Quiz: Test your knowledge on data types, fields, and values
+3 questions
+*Weekly challenge 1*
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: *Weekly challenge 1*
+8 questions
+Due Jan 24, 3:59 AM AST
+
+Week 2
+Unbiased and objective data
+Video: LectureEnsuring data integrity
+. Duration: 1 minute1 min
+. Click to resume
+Video: LectureBias: From questions to conclusions
+. Duration: 3 minutes3 min
+Video: LectureBiased and unbiased data
+. Duration: 2 minutes2 min
+Discussion Prompt: Accounting for bias
+. Duration: 10 minutes10 min
+Video: LectureUnderstanding bias in data
+. Duration: 3 minutes3 min
+Practice Quiz: Test your knowledge on unbiased and objective data
+3 questions
+Explore data credibility
+Video: LectureIdentifying good data sources
+. Duration: 2 minutes2 min
+Video: LectureWhat is "bad" data?
+. Duration: 2 minutes2 min
+Practice Quiz: Test your knowledge on data credibility
+3 questions
+Data ethics and privacy
+Video: LectureIntroduction to data ethics
+. Duration: 4 minutes4 min
+Video: LectureOptional Refresher: Alex: The importance of data ethics
+. Duration: 3 minutes3 min
+Video: LectureIntroduction to data privacy
+. Duration: 1 minute1 min
+Reading: Data anonymization
+. Duration: 10 minutes10 min
+Video: LectureAndrew: The ethical use of data
+. Duration: 2 minutes2 min
+Practice Quiz: Test your knowledge on data ethics and privacy
+3 questions
+Understanding open data
+Video: LectureFeatures of open data
+. Duration: 4 minutes4 min
+Reading: The open-data debate
+. Duration: 10 minutes10 min
+Video: LectureAndrew: Steps for ethical data use
+. Duration: 3 minutes3 min
+Reading: Sites and resources for open data
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Kaggle datasets
+2 questions
+Practice Quiz: Test your knowledge on open data
+3 questions
+*Weekly challenge 2*
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: *Weekly challenge 2*
+8 questions
+Due Jan 31, 3:59 AM AS
+
+Week 3
+Working with databases
+Video: LectureAll about databases
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureDatabase features
+. Duration: 3 minutes3 min
+Reading: Databases in data analytics
+. Duration: 10 minutes10 min
+Primary and Foreign Keys
+. Duration: 10 minutes10 min
+Reading: Inspecting a dataset: A guided, hands-on tour
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on working with databases
+3 questions
+Managing data with metadata
+Video: LectureExploring metadata
+. Duration: 3 minutes3 min
+Reading: Metadata is as important as the data itself
+. Duration: 10 minutes10 min
+Video: LectureUsing metadata as an analyst
+. Duration: 3 minutes3 min
+Video: LectureMetadata management
+. Duration: 3 minutes3 min
+Video: LectureMegan: Fun with metadata
+. Duration: 2 minutes2 min
+Practice Quiz: Test your knowledge on metadata
+4 questions
+Accessing different data sources
+Video: LectureWorking with more data sources
+. Duration: 3 minutes3 min
+Reading: From external source to a spreadsheet
+. Duration: 10 minutes10 min
+Video: LectureImporting data from spreadsheets and databases
+. Duration: 3 minutes3 min
+Reading: Exploring public datasets
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on accessing data sources
+3 questions
+Sorting and filtering
+Video: LectureSorting and filtering
+. Duration: 5 minutes5 min
+Practice Quiz: Hands-On Activity: Clean data in spreadsheets with sorting and filtering
+2 questions
+Practice Quiz: Self-Reflection: Considering databases and spreadsheets for sorting and filtering
+1 question
+Practice Quiz: Test your knowledge on sorting and filtering
+4 questions
+Working with large datasets in SQL
+Video: LectureSetting up BigQuery, including sandbox and billing options
+. Duration: 3 minutes3 min
+Video: LectureHow to use BigQuery
+. Duration: 4 minutes4 min
+Video: LectureBigQuery in action
+. Duration: 6 minutes6 min
+Reading: Using BigQuery
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Introduction to BigQuery
+2 questions
+Practice Quiz: Hands-On Activity: Create a custom table in BigQuery
+2 questions
+Reading: In-depth guide: SQL best practices
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Applying SQL
+2 questions
+Practice Quiz: Test your knowledge on using SQL with large datasets
+4 questions
+*Weekly challenge 3*
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: *Weekly challenge 3*
+8 questions
+
+Week 4
+Effectively organize data
+Video: LectureFeel confident in your data
+. Duration: 53 seconds53 sec
+. Click to resume
+Video: LectureLet's get organized
+. Duration: 4 minutes4 min
+Reading: Organization guidelines
+. Duration: 10 minutes10 min
+Video: LectureAll about file naming
+. Duration: 2 minutes2 min
+Reading: Learning Log: Review file structure and naming conventions
+. Duration: 20 minutes20 min
+Effective naming and organization methods
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on how to organize data
+5 questions
+Securing data
+Video: LectureSecurity features in spreadsheets
+. Duration: 3 minutes3 min
+Reading: Balancing security and analytics
+. Duration: 10 minutes10 min
+Practice Quiz: Self-Reflection: Protecting your resources
+1 question
+Practice Quiz: Test your knowledge on securing your data
+3 questions
+*Weekly challenge 4*
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: *Weekly challenge 4*
+8 questions
+Due Feb 14, 3:59 AM AST
+
+Week 5
+Create or enhance your online presence
+Video: LectureManaging your presence as a data analyst
+. Duration: 1 minute1 min
+. Click to resume
+Video: LectureWhy an online presence is important
+. Duration: 3 minutes3 min
+Reading: Getting started with LinkedIn
+. Duration: 10 minutes10 min
+Reading: Building connections on LinkedIn
+. Duration: 10 minutes10 min
+Video: LectureTips for enhancing your online presence
+. Duration: 3 minutes3 min
+Practice Quiz: Self-Reflection: Adding Kaggle to your online presence
+1 question
+Build a data analytics network
+Video: LectureNetworking know-how
+. Duration: 2 minutes2 min
+Reading: Developing a network
+. Duration: 10 minutes10 min
+Video: LectureBenefits of mentorship
+. Duration: 3 minutes3 min
+Video: LectureRachel: Mentors are key
+. Duration: 2 minutes2 min
+*Course challenge*
+
+Google Career Certificates
+Prepare for the course challenge by reviewing terms and definitions in the glossary. Then, demonstrate your knowledge of data collection, ethics and privacy, and bias during the quiz. You will also have an opportunity to apply your skill with...
+
+Learning Objectives
+Explain factors that should be considered when making decisions about data collection
+Explain the relationship between data ethics and data privacy
+Discuss characteristics of credible sources of data including reference to untidy data
+*Course challenge*
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: *Course challenge*
+10 questions
+Due Feb 21, 3:59 AM AST
+. Click to resume
+Complete the previous item to unlock this.
+Video: LectureCongrats! Course wrap-up
+. Duration: 1 minute1 min
+Reading: Coming up next...
+. Duration: 5 minutes5 min
+
+
+
+
+
+
