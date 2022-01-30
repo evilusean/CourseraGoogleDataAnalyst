@@ -1,0 +1,327 @@
+Week 1
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+56 threads · Last post 14 minutes ago
+The importance of integrity
+
+Google Career Certificates
+As you start thinking about how to prepare your data for exploration, this part of the course will highlight why data integrity is so essential to successful decision-making. You’ll learn about how data is generated and the techniques analysts use...
+
+Learning Objectives
+Describe statistical measures associated with data integrity including statistical power, hypothesis testing, and margin of error
+Describe strategies that can be used to address insufficient data
+Discuss the importance of sample size with reference to sample bias and random samples
+Focus on integrity
+Video: LectureIntroduction to focus on integrity
+. Duration: 3 minutes3 min
+. Click to resume
+Reading: Course syllabus
+. Duration: 10 minutes10 min
+Discussion Prompt: Meet and greet
+. Duration: 10 minutes10 min
+Refresher: Your data analytics certificate roadmap
+. Duration: 10 minutes10 min
+Data integrity and analytics objectives
+Video: LectureWhy data integrity is important
+. Duration: 2 minutes2 min
+Reading: More about data integrity and compliance
+. Duration: 10 minutes10 min
+Video: LectureBalancing objectives with data integrity
+. Duration: 3 minutes3 min
+Reading: Well-aligned objectives and data
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on data integrity and analytics objectives
+3 questions
+Overcoming the challenges of insufficient data
+Video: LectureDealing with insufficient data
+. Duration: 3 minutes3 min
+Reading: What to do when you find an issue with your data
+. Duration: 10 minutes10 min
+Video: LectureThe importance of sample size
+. Duration: 3 minutes3 min
+Reading: Calculating sample size
+. Duration: 10 minutes10 min
+Practice Quiz: Self-Reflection: Why pre-cleaning activities are important
+1 question
+Practice Quiz: Test your knowledge on insufficient data
+3 questions
+Testing your data
+Video: LectureUsing statistical power
+. Duration: 4 minutes4 min
+Reading: What to do when there is no data
+. Duration: 10 minutes10 min
+Video: LectureDetermine the best sample size
+. Duration: 4 minutes4 min
+Reading: Sample size calculator
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on testing your data
+3 questions
+Consider the margin of error
+Video: LectureEvaluate the reliability of your data
+. Duration: 5 minutes5 min
+Reading: All about margin of error
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on margin of error
+2 questions
+Weekly challenge 1
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 1
+8 questions
+Due Feb 7, 3:59 AM AST
+
+Week 2
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+83 threads · Last post 4 hours ago
+Sparkling-clean data
+
+Google Career Certificates
+Every data analyst wants clean data to work with when performing an analysis. In this part of the course, you’ll learn the difference between clean and dirty data. You’ll also explore data cleaning techniques using spreadsheets and other tools.
+Learning Objectives
+Differentiate between clean and dirty data
+Explain the characteristics of dirty data
+Describe data cleaning techniques with reference to identifying errors, redundancy, compatibility and continuous monitoring
+Data cleaning is a must
+Video: LectureClean it up!
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureWhy data cleaning is important
+. Duration: 5 minutes5 min
+Video: LectureAngie: Why I love cleaning data
+. Duration: 1 minute1 min
+Reading: What is dirty data?
+. Duration: 10 minutes10 min
+Video: LectureRecognize and remedy dirty data
+. Duration: 4 minutes4 min
+Data Integrity/Clean and Dirty
+. Duration: 30 minutes30 min
+Practice Quiz: Test your knowledge on clean versus dirty data
+4 questions
+Begin cleaning data
+Video: LectureData-cleaning tools and techniques
+. Duration: 6 minutes6 min
+Video: LectureCleaning data from multiple sources
+. Duration: 5 minutes5 min
+Reading: Common data-cleaning pitfalls
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Cleaning data with spreadsheets
+2 questions
+Practice Quiz: Test your knowledge on data-cleaning techniques
+3 questions
+Cleaning data in spreadsheets
+Video: LectureData-cleaning features in spreadsheets
+. Duration: 8 minutes8 min
+Video: LectureOptimize the data-cleaning process
+. Duration: 14 minutes14 min
+Reading: Workflow automation
+. Duration: 10 minutes10 min
+Video: LectureDifferent data perspectives
+. Duration: 10 minutes10 min
+Video: LectureEven more data-cleaning techniques
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Clean data with spreadsheet functions
+2 questions
+Reading: Learning Log: Develop your approach to cleaning data
+. Duration: 20 minutes20 min
+Practice Quiz: Test your knowledge on cleaning data in spreadsheets
+3 questions
+Weekly challenge 2
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 2
+8 questions
+Due Feb 14, 3:59 AM AST
+
+Week 3
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+148 threads · Last post 23 minutes ago
+Cleaning data with SQL
+
+Google Career Certificates
+Knowing a variety of ways to clean data can make an analyst’s job much easier. In this part of the course, you’ll check out how to clean your data using SQL. You’ll explore queries and functions that you can use in SQL to clean and transform your...
+
+Learning Objectives
+Describe how SQL can be used to clean large datasets
+Compare spreadsheet data-cleaning functions to those associated with SQL in databases
+Develop basic SQL queries for use with databases
+Using SQL to clean data
+Video: LectureUsing SQL to clean data
+. Duration: 45 seconds45 sec
+. Click to resume
+Video: LectureSally: For the love of SQL
+. Duration: 3 minutes3 min
+Video: LectureUnderstanding SQL capabilities
+. Duration: 3 minutes3 min
+Reading: Using SQL as a junior data analyst
+. Duration: 10 minutes10 min
+Video: LectureSpreadsheets versus SQL
+. Duration: 4 minutes4 min
+Reading: SQL dialects and their uses
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Processing time with SQL
+2 questions
+Practice Quiz: Test your knowledge on SQL
+3 questions
+Learn basic SQL queries
+Reading: Optional: Upload the customer dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureWidely used SQL queries
+. Duration: 6 minutes6 min
+Video: LectureEvan: Having fun with SQL
+. Duration: 2 minutes2 min
+Video: LectureCleaning string variables using SQL
+. Duration: 12 minutes12 min
+Practice Quiz: Hands-On Activity: Clean data using SQL
+2 questions
+Practice Quiz: Test your knowledge on SQL queries
+4 questions
+Transforming data
+Reading: Optional: Upload the store transactions dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureAdvanced data cleaning functions, part 1
+. Duration: 6 minutes6 min
+Video: LectureAdvanced data-cleaning functions, part 2
+. Duration: 8 minutes8 min
+Discussion Prompt: Debugging SQL code
+. Duration: 10 minutes10 min
+Data cleaning with SQL
+. Duration: 30 minutes30 min
+Practice Quiz: Self-Reflection: Challenges with SQL
+1 question
+Weekly challenge 3
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 3
+9 questions
+Due Feb 21, 3:59 AM AST
+
+Week 4
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+23 threads · Last post 4 days ago
+Verify and report on your cleaning results
+
+Google Career Certificates
+Cleaning your data is an essential step in the data analysis process. Verifying and reporting your cleaning is a way to show that your data is ready for the next step. In this part of the course, you'll find out the processes involved with verifying...
+
+Learning Objectives
+Describe the process involved in verifying the results of cleaning data
+Describe what is involved in manually cleaning data
+Discuss the elements and importance of data-cleaning reports
+Manually cleaning data
+Video: LectureVerifying and reporting results
+. Duration: 3 minutes3 min
+. Click to resume
+Video: LectureCleaning and your data expectations
+. Duration: 5 minutes5 min
+Video: LectureThe final step in data cleaning
+. Duration: 8 minutes8 min
+Reading: Data-cleaning verification: A checklist
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on manual data cleaning
+4 questions
+Documenting results and the cleaning process
+Video: LectureCapturing cleaning changes
+. Duration: 5 minutes5 min
+Reading: Embrace changelogs
+. Duration: 10 minutes10 min
+Practice Quiz: Self-Reflection: Creating a changelog
+1 question
+Video: LectureWhy documentation is important
+. Duration: 3 minutes3 min
+Video: LectureFeedback and cleaning
+. Duration: 2 minutes2 min
+Reading: Advanced functions for speedy data cleaning
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on documenting the cleaning process
+3 questions
+Weekly challenge 4
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 4
+8 questions
+Due Feb 28, 3:59 AM AST
+
+Week 5
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+33 threads · Last post 16 minutes ago
+Optional: Adding data to your resume
+
+Google Career Certificates
+Creating an effective resume will help you on your data analytics career path. In this part of the course, you’ll learn all about the job application process with a focus on crafting a resume that highlights your strengths and applicable experience....
+
+Learning Objectives
+Identify key elements of a data analyst resume
+Demonstrate an understanding how previous experience may be added to a resume
+Discuss how a data analyst job description may be aligned to a particular area of interest
+The data analyst hiring process
+Video: LectureAbout the data-analyst hiring process
+. Duration: 1 minute1 min
+. Click to resume
+Video: LectureThe data analyst job-application process
+. Duration: 6 minutes6 min
+Video: LectureCreating a resume
+. Duration: 9 minutes9 min
+Practice Quiz: Hands-On Activity: Build a resume
+2 questions
+Understand the elements of a data analyst resume
+Video: LectureMaking your resume unique
+. Duration: 3 minutes3 min
+Video: LectureJoseph: Black and African American inclusion in the data industry
+. Duration: 1 minute1 min
+Reading: CareerCon resources on YouTube
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Adding skills to a resume
+2 questions
+Highlighting experiences on resumes
+Video: LectureTranslating past work experience
+. Duration: 4 minutes4 min
+Video: LectureKate: My career path as a data analyst
+. Duration: 3 minutes3 min
+Reading: Adding professional skills to your resume
+. Duration: 10 minutes10 min
+Reading: Adding soft skills to your resume
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Adding experience to a resume
+2 questions
+Exploring areas of interest
+Video: LectureWhere does your interest lie?
+. Duration: 3 minutes3 min
+Discussion Prompt: Share resume best practices
+. Duration: 10 minutes10 min
+
+Week 6
+Process Data from Dirty to Clean
+Discuss and ask questions about this content.
+
+31 threads · Last post 9 hours ago
+Course challenge
+
+Google Career Certificates
+Prepare for the course challenge by reviewing terms and definitions in the glossary. Then, demonstrate your knowledge of the importance of sample size, data integrity, and the connection of data to business objectives during the quiz. You will also...
+
+Learning Objectives
+Describe statistical measures associated with data integrity including statistical power, hypothesis testing, and margin of error
+Describe strategies that can be used to address insufficient data
+Discuss the importance of sample size with reference to sample bias and random samples
+Course challenge
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Video: LectureGet ready for the course challenge
+. Duration: 22 seconds22 sec
+. Click to resume
+Quiz: Course challenge
+10 questions
+Due Mar 14, 4:59 AM ADT
+Complete the previous item to unlock this.
+Video: LectureCongratulations!
+. Duration: 1 minute1 min
+Reading: Coming up next ...
