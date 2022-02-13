@@ -1,0 +1,256 @@
+Week 1
+Let's get organized
+Video: LectureIntroduction to getting organized
+. Duration: 3 minutes3 min
+Reading: Course syllabus
+. Duration: 10 minutes10 min
+Reading: Learning Log: Process and organize your data
+. Duration: 20 minutes20 min
+Discussion Prompt: Meet and greet
+. Duration: 10 minutes10 min
+. Click to resume
+Refresher: Your data analytics certificate roadmap
+. Duration: 10 minutes10 min
+Data analysis basics
+Video: LectureThe analysis process
+. Duration: 4 minutes4 min
+Video: LectureAyanna: Sticking with it
+. Duration: 1 minute1 min
+Practice Quiz: Test your knowledge on understanding data analysis
+3 questions
+Organize data for analysis
+Video: LectureAlways a need to organize
+. Duration: 2 minutes2 min
+Reading: Keeping data organized with sorting and filters
+. Duration: 10 minutes10 min
+Reading: Optional: Upload the movie dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureMore on sorting and filtering
+. Duration: 5 minutes5 min
+Practice Quiz: Test your knowledge on organizing data
+3 questions
+Sort data in spreadsheets
+Video: LectureSorting datasets
+. Duration: 4 minutes4 min
+Video: LectureThe SORT function
+. Duration: 5 minutes5 min
+Reading: Sorting and filtering in Sheets and Excel
+. Duration: 10 minutes10 min
+Video: LectureEmma: Journey to a meaningful career
+. Duration: 2 minutes2 min
+Practice Quiz: Test your knowledge on sorting in spreadsheets
+3 questions
+Sort data using SQL
+Video: LectureSorting queries in SQL
+. Duration: 7 minutes7 min
+Reading: Optional Refresher: Using BigQuery
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: SQL sorting queries
+2 questions
+Practice Quiz: Hands-On Activity: Analyze weather data in BigQuery
+2 questions
+Practice Quiz: Test your knowledge on sorting in SQL
+3 questions
+Weekly challenge 1
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 1
+8 questions
+Due Feb 21, 3:59 AM AST
+
+Week 2
+Convert and format data
+Video: LectureGetting started with data formatting
+. Duration: 1 minute1 min
+. Click to resume
+Video: LectureFrom one type to another
+. Duration: 5 minutes5 min
+Reading: Converting data in spreadsheets
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Combine multiple pieces of data
+2 questions
+Video: LectureData validation
+. Duration: 3 minutes3 min
+Video: LectureConditional formatting
+. Duration: 4 minutes4 min
+Discussion Prompt: Identify conditional formatting use cases
+. Duration: 10 minutes10 min
+Reading: Transforming data in SQL
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on converting and formatting data
+3 questions
+Combine multiple datasets
+Reading: Optional: Prepare to use the bike sharing dataset in BigQuery
+. Duration: 10 minutes10 min
+Video: LectureMerging and multiple sources
+. Duration: 4 minutes4 min
+Video: LectureStrings in spreadsheets
+. Duration: 3 minutes3 min
+Reading: Manipulating strings in SQL
+. Duration: 10 minutes10 min
+SQL Syntax
+. Duration: 30 minutes30 min
+Reading: Learning Log: A data analysis checklist
+. Duration: 20 minutes20 min
+Practice Quiz: Test your knowledge on combining multiple datasets
+3 questions
+Get support during analysis
+Video: LectureWhat to do when you get stuck
+. Duration: 3 minutes3 min
+Reading: Advanced spreadsheet tips and tricks
+. Duration: 10 minutes10 min
+Video: LectureLayla: All about the analyze phase
+. Duration: 3 minutes3 min
+Video: LectureRunning into challenges? Not to worry!
+. Duration: 6 minutes6 min
+Video: LectureWhen to use which tool
+. Duration: 3 minutes3 min
+Practice Quiz: Self-Reflection: Stack Overflow
+1 question
+Weekly challenge 2
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 2
+8 questions
+Due Feb 28, 3:59 AM AST
+
+Week 3
+VLOOKUP for data aggregation
+Video: LectureAggregate data for analysis
+. Duration: 3 minutes3 min
+. Click to resume
+Video: LecturePreparing for VLOOKUP
+. Duration: 4 minutes4 min
+Video: LectureVLOOKUP in action
+. Duration: 3 minutes3 min
+Video: LectureIdentifying common VLOOKUP errors
+. Duration: 5 minutes5 min
+Reading: VLOOKUP core concepts
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Using VLOOKUP
+2 questions
+Practice Quiz: Test your knowledge on VLOOKUP
+5 questions
+Use JOINS to aggregate data in SQL
+Reading: Optional: Upload the employee dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureUnderstanding JOINS
+. Duration: 7 minutes7 min
+Reading: Secret identities: The importance of aliases
+. Duration: 10 minutes10 min
+Reading: Using JOINs effectively
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Queries for JOINS
+2 questions
+Reading: Optional: Upload the warehouse dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureCOUNT and COUNT DISTINCT
+. Duration: 5 minutes5 min
+Practice Quiz: Test your knowledge on using JOINS to aggregate data
+3 questions
+Work with subqueries
+Video: LectureQueries within queries
+. Duration: 6 minutes6 min
+Video: LectureUsing subqueries to aggregate data
+. Duration: 7 minutes7 min
+Reading: SQL functions and subqueries: A functional friendship
+. Duration: 10 minutes10 min
+Subqueries
+. Duration: 30 minutes30 min
+Video: LectureJustin: Where data analysis takes you
+. Duration: 2 minutes2 min
+Practice Quiz: Test your knowledge on working with subqueries
+3 questions
+Weekly challenge 3
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 3
+8 questions
+Due Mar 7, 3:59 AM AST
+
+Week 4
+Get started with data calculations
+Video: LectureData calculations
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureCommon calculation formulas
+. Duration: 9 minutes9 min
+Video: LectureFunctions and conditions
+. Duration: 8 minutes8 min
+Reading: Functions with multiple conditions
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Working with conditions
+2 questions
+Video: LectureComposite functions
+. Duration: 5 minutes5 min
+Practice Quiz: Test your knowledge on data calculations
+3 questions
+Pivot...pivot...pivot...
+Video: LectureStart working with pivot tables
+. Duration: 7 minutes7 min
+Video: LecturePivot tables continued
+. Duration: 5 minutes5 min
+Reading: Elements of a pivot table
+. Duration: 10 minutes10 min
+Reading: Using pivot tables in analysis
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Explore movie data with pivot tables
+2 questions
+Practice Quiz: Test your knowledge on using pivot tables
+3 questions
+Learn more SQL calculations
+Video: LectureQueries and calculations
+. Duration: 4 minutes4 min
+Reading: Optional: Upload the avocado dataset to BigQuery
+. Duration: 10 minutes10 min
+Video: LectureEmbedding simple calculations in SQL
+. Duration: 7 minutes7 min
+Video: LectureCalculations with other statements
+. Duration: 4 minutes4 min
+Practice Quiz: Hands-On Activity: Calculations in SQL
+2 questions
+Discussion Prompt: Calculations and queries
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on SQL calculations
+3 questions
+The data-validation process
+Video: LectureCheck and recheck
+. Duration: 5 minutes5 min
+Reading: Types of data validation
+. Duration: 5 minutes5 min
+Practice Quiz: Hands-On Activity: From spreadsheets to BigQuery
+2 questions
+Data Validation
+. Duration: 30 minutes30 min
+Reading: Learning Log: Finish your data analysis checklist
+. Duration: 20 minutes20 min
+Practice Quiz: Test your knowledge on data validation
+3 questions
+Using SQL with temporary tables
+Video: LectureTemporary tables
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Create temporary tables
+2 questions
+Video: LectureMultiple table variations
+. Duration: 3 minutes3 min
+Reading: Working with temporary tables
+. Duration: 10 minutes10 min
+Reading: Your intermediate guide to SQL
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on using SQL with temporary tables
+3 questions
+Weekly challenge 4
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 4
+8 questions
+Due Mar 14, 4:59 AM ADT
+Course challenge
+Quiz: Course challenge
+13 questions
+Due Mar 14, 4:59 AM ADT
+Complete the previous item to unlock this.
+Video: LectureCongratulations!
+. Duration: 1 minute1 min
+Reading: Coming up next...
+. Duration: 10 minutes10 min
