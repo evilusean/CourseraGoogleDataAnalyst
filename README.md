@@ -24,7 +24,15 @@ End: 29 Jan 2022
 
 Process Data from Dirty to Clean
 
-Analyze Data to Answer Questions
+Started: 30 Jan 2022
+
+End:11 Feb 2022
+
+Analyze Data to Answer Questions:
+
+Started:12 Feb 2022
+
+Ended:
 
 S​hare Data Through the Art of Visualization 
 
