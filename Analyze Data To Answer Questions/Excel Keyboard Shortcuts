@@ -91,3 +91,465 @@ Ctrl+9
 Hide the selected columns.
 
 Ctrl+0
+
+Open the File menu.
+
+Alt+F
+
+Open the Home tab and format text and numbers and use the Find tool.
+
+Alt+H
+
+Open the Insert tab and insert PivotTables, charts, add-ins, Sparklines, pictures, shapes, headers, or text boxes.
+
+Alt+N
+
+Open the Page Layout tab and work with themes, page setup, scale, and alignment.
+
+Alt+P
+
+Open the Formulas tab and insert, trace, and customize functions and calculations.
+
+Alt+M
+
+Open the Data tab and connect to, sort, filter, analyze, and work with data.
+
+Alt+A
+
+Open the Review tab and check spelling, add notes and threaded comments, and protect sheets and workbooks.
+
+Alt+R
+
+Open the View tab and preview page breaks and layouts, show and hide gridlines and headings, set zoom magnification, manage windows and panes, and view macros.
+
+Alt+W
+
+
+Open the Format Cells dialog box.
+
+Ctrl+1
+
+Format fonts in the Format Cells dialog box.
+
+Ctrl+Shift+F or Ctrl+Shift+P
+
+Edit the active cell and put the insertion point at the end of its contents. Or, if editing is turned off for the cell, move the insertion point into the formula bar. If editing a formula, toggle Point mode off or on so you can use the arrow keys to create a reference.
+
+F2
+
+Insert a note.
+
+Open and edit a cell note.
+
+Shift+F2
+
+Shift+F2
+
+Insert a threaded comment.
+
+Open and reply to a threaded comment.
+
+Ctrl+Shift+F2
+
+Ctrl+Shift+F2
+
+Open the Insert dialog box to insert blank cells.
+
+Ctrl+Shift+Plus sign (+)
+
+Open the Delete dialog box to delete selected cells.
+
+Ctrl+Minus sign (-)
+
+Enter the current time.
+
+Ctrl+Shift+Colon (:)
+
+Enter the current date.
+
+Ctrl+Semicolon (;)
+
+Switch between displaying cell values or formulas in the worksheet.
+
+Ctrl+Grave accent (`)
+
+Copy a formula from the cell above the active cell into the cell or the formula bar.
+
+Ctrl+Apostrophe (')
+
+Move the selected cells.
+
+Ctrl+X
+
+Copy the selected cells.
+
+Ctrl+C
+
+Paste content at the insertion point, replacing any selection.
+
+Ctrl+V
+
+Open the Paste Special dialog box.
+
+Ctrl+Alt+V
+
+Italicize text or remove italic formatting.
+
+Ctrl+I or Ctrl+3
+
+Bold text or remove bold formatting.
+
+Ctrl+B or Ctrl+2
+
+Underline text or remove underline.
+
+Ctrl+U or Ctrl+4
+
+Apply or remove strikethrough formatting.
+
+Ctrl+5
+
+Switch between hiding objects, displaying objects, and displaying placeholders for objects.
+
+Ctrl+6
+
+Apply an outline border to the selected cells.
+
+Ctrl+Shift+Ampersand sign (&)
+
+Remove the outline border from the selected cells.
+
+Ctrl+Shift+Underscore (_)
+
+Display or hide the outline symbols.
+
+Ctrl+8
+
+Use the Fill Down command to copy the contents and format of the topmost cell of a selected range into the cells below.
+
+Ctrl+D
+
+Apply the General number format.
+
+Ctrl+Shift+Tilde sign (~)
+
+Apply the Currency format with two decimal places (negative numbers in parentheses).
+
+Ctrl+Shift+Dollar sign ($)
+
+Apply the Percentage format with no decimal places.
+
+Ctrl+Shift+Percent sign (%)
+
+Apply the Scientific number format with two decimal places.
+
+Ctrl+Shift+Caret sign (^)
+
+Apply the Date format with the day, month, and year.
+
+Ctrl+Shift+Number sign (#)
+
+Apply the Time format with the hour and minute, and AM or PM.
+
+Ctrl+Shift+At sign (@)
+
+Apply the Number format with two decimal places, thousands separator, and minus sign (-) for negative values.
+
+Ctrl+Shift+Exclamation point (!)
+
+Open the Insert hyperlink dialog box.
+
+Ctrl+K
+
+Check spelling in the active worksheet or selected range.
+
+F7
+
+Display the Quick Analysis options for selected cells that contain data.
+
+Ctrl+Q
+
+Display the Create Table dialog box.
+
+Ctrl+L or Ctrl+T
+
+Open the Workbook Statistics dialog box.
+
+Ctrl+Shift+G
+
+Select the entire worksheet.
+
+Ctrl+A or Ctrl+Shift+Spacebar
+
+Select the current and next sheet in a workbook.
+
+Ctrl+Shift+Page down
+
+Select the current and previous sheet in a workbook.
+
+Ctrl+Shift+Page up
+
+Extend the selection of cells by one cell.
+
+Shift+Arrow key
+
+Extend the selection of cells to the last nonblank cell in the same column or row as the active cell, or if the next cell is blank, to the next nonblank cell.
+
+Ctrl+Shift+Arrow key
+
+Turn extend mode on and use the arrow keys to extend a selection. Press again to turn off.
+
+F8
+
+Add a non-adjacent cell or range to a selection of cells by using the arrow keys.
+
+Shift+F8
+
+Start a new line in the same cell.
+
+Alt+Enter
+
+Fill the selected cell range with the current entry.
+
+Ctrl+Enter
+
+Complete a cell entry and select the cell above.
+
+Shift+Enter
+
+Select an entire column in a worksheet.
+
+Ctrl+Spacebar
+
+Select an entire row in a worksheet.
+
+Shift+Spacebar
+
+Select all objects on a worksheet when an object is selected.
+
+Ctrl+Shift+Spacebar
+
+Extend the selection of cells to the beginning of the worksheet.
+
+Ctrl+Shift+Home
+
+Select the current region if the worksheet contains data. Press a second time to select the current region and its summary rows. Press a third time to select the entire worksheet.
+
+Ctrl+A or Ctrl+Shift+Spacebar
+
+Select the current region around the active cell.
+
+Ctrl+Shift+Asterisk sign (*)
+
+Select the first command on the menu when a menu or submenu is visible.
+
+Home
+
+Repeat the last command or action, if possible.
+
+Ctrl+Y
+
+Undo the last action.
+
+Ctrl+Z
+
+Edit the active cell and put the insertion point at the end of its contents. Or, if editing is turned off for the cell, move the insertion point into the formula bar. If editing a formula, toggle Point mode off or on so you can use the arrow keys to create a reference.
+
+F2
+
+Expand or collapse the formula bar.
+
+Ctrl+Shift+U
+
+Cancel an entry in the cell or formula bar.
+
+Esc
+
+Complete an entry in the formula bar and select the cell below.
+
+Enter
+
+Move the cursor to the end of the text when in the formula bar.
+
+Ctrl+End
+
+Select all text in the formula bar from the cursor position to the end.
+
+Ctrl+Shift+End
+
+Calculate all worksheets in all open workbooks.
+
+F9
+
+Calculate the active worksheet.
+
+Shift+F9
+
+Calculate all worksheets in all open workbooks, regardless of whether they have changed since the last calculation.
+
+Ctrl+Alt+F9
+
+Check dependent formulas, and then calculate all cells in all open workbooks, including cells not marked as needing to be calculated.
+
+Ctrl+Alt+Shift+F9
+
+Display the menu or message for an Error Checking button.
+
+Alt+Shift+F10
+
+Display the Function Arguments dialog box when the insertion point is to the right of a function name in a formula.
+
+Ctrl+A
+
+Insert argument names and parentheses when the insertion point is to the right of a function name in a formula.
+
+Ctrl+Shift+A
+
+Insert the AutoSum formula
+
+Alt+Equal sign ( = )
+
+Invoke Flash Fill to automatically recognize patterns in adjacent columns and fill the current column
+
+Ctrl+E
+
+Cycle through all combinations of absolute and relative references in a formula if a cell reference or range is selected.
+
+F4
+
+Insert a function.
+
+Shift+F3
+
+Copy the value from the cell above the active cell into the cell or the formula bar.
+
+Ctrl+Shift+Straight quotation mark (")
+
+Create an embedded chart of the data in the current range.
+
+Alt+F1
+
+Create a chart of the data in the current range in a separate Chart sheet.
+
+F11
+
+Define a name to use in references.
+
+Alt+M, M, D
+
+Paste a name from the Paste Name dialog box (if names have been defined in the workbook).
+
+F3
+
+Move to the first field in the next record of a data form.
+
+Enter
+
+Create, run, edit, or delete a macro.
+
+Alt+F8
+
+Select the entire table.
+
+Ctrl+A
+
+Copy selected data.
+
+Ctrl+C
+
+Delete the table.
+
+Ctrl+D
+
+Move the table.
+
+Ctrl+M
+
+Rename the table.
+
+Ctrl+R
+
+Save the file.
+
+Ctrl+S
+
+Redo the last action.
+
+Ctrl+Y
+
+Undo the last action.
+
+Ctrl+Z
+
+Select the current column.
+
+Ctrl+Spacebar
+
+Select the current row.
+
+Shift+Spacebar
+
+Select all cells from the current location to the last cell of the column.
+
+Shift+Page down
+
+Select all cells from the current location to the first cell of the column.
+
+Shift+Page up
+
+Select all cells from the current location to the last cell of the row.
+
+Shift+End
+
+Select all cells from the current location to the first cell of the row.
+
+Shift+Home
+
+Move to the previous table.
+
+Ctrl+Page up
+
+Move to the next table.
+
+Ctrl+Page down
+
+Move to the first cell in the upper-left corner of selected table.
+
+Ctrl+Home
+
+Move to the last cell in the lower-right corner of selected table.
+
+Ctrl+End
+
+Move to the first cell of the selected row.
+
+Ctrl+Left arrow key
+
+Move to the last cell of the selected row.
+
+Ctrl+Right arrow key
+
+Move to the first cell of the selected column.
+
+Ctrl+Up arrow key
+
+Move to the last cell of selected column.
+
+Ctrl+Down arrow key
+
+Close a dialog box or cancel a process, such as a paste operation.
+
+Ctrl+Esc
+
+Open the AutoFilter Menu dialog box.
+
+Alt+Down arrow key
+
+Open the Go To dialog box.
+
+F5
+
+Recalculate all formulas in the Power Pivot window. For more information, see Recalculate Formulas in Power Pivot.
+
+F9
+
