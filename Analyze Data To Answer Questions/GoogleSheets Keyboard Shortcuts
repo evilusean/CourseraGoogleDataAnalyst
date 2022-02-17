@@ -1,0 +1,197 @@
+Common actions
+
+Select column	Ctrl + Space
+Select row	Shift + Space
+Select all	Ctrl + a
+Ctrl + Shift + Space
+Undo	Ctrl + z
+Redo	Ctrl + y
+Ctrl + Shift + z
+F4
+Find	Ctrl + f
+Find and replace	Ctrl + h
+Fill range	Ctrl + Enter
+Fill down	Ctrl + d
+Fill right	Ctrl + r
+Save
+(every change is saved automatically in Drive)	Ctrl + s
+Open	Ctrl + o
+Print	Ctrl + p
+Copy	Ctrl + c
+Cut	Ctrl + x
+Paste	Ctrl + v
+Paste values only	Ctrl + Shift + v
+Show common keyboard shortcuts	Ctrl + /
+Insert new sheet	Shift + F11
+Compact controls	Ctrl + Shift + f
+Input tools on/off
+(available in spreadsheets in non-Latin languages)	Ctrl + Shift + k
+Select input tools	Ctrl + Alt + Shift + k
+Search the menus	Alt + /
+Format cells
+
+Bold	Ctrl + b
+Underline	Ctrl + u
+Italic	Ctrl + i
+Strikethrough	Alt + Shift + 5
+Center align	Ctrl + Shift + e
+Left align	Ctrl + Shift + l
+Right align	Ctrl + Shift + r
+Apply top border	Alt + Shift + 1
+Apply right border	Alt + Shift + 2
+Apply bottom border	Alt + Shift + 3
+Apply left border	Alt + Shift + 4
+Remove borders	Alt + Shift + 6
+Apply outer border	
+Alt + Shift + 7
+
+Ctrl + Shift + 7
+
+Insert link	Ctrl + k
+Insert time	Ctrl + Shift + ;
+Insert date	Ctrl + ;
+Insert date and time	Ctrl + Alt + Shift + ;
+Format as decimal	Ctrl + Shift + 1
+Format as time	Ctrl + Shift + 2
+Format as date	Ctrl + Shift + 3
+Format as currency	Ctrl + Shift + 4
+Format as percentage	Ctrl + Shift + 5
+Format as exponent	Ctrl + Shift + 6
+Clear formatting	Ctrl + \
+Navigate spreadsheet
+
+Move to beginning of row	Home
+Move to beginning of sheet	Ctrl + Home
+Move to end of row	End
+Move to end of sheet	Ctrl + End
+Scroll to active cell	Ctrl + Backspace
+Move to next sheet	Alt + Down Arrow
+Move to previous sheet	Alt + Up Arrow
+Display list of sheets	Alt + Shift + k
+Open hyperlink	Alt + Enter
+Open Explore	Alt + Shift + x
+Go to side panel	Ctrl + Alt + .
+Ctrl + Alt + ,
+Move focus out of spreadsheet	Ctrl + Alt + Shift + m
+Move to quicksum
+(when a range of cells is selected)	Alt + Shift + q
+Move focus to popup
+(for links, bookmarks, and images)	holding Ctrl + Alt, press e then p
+Open drop-down menu on filtered cell	Ctrl + Alt + r
+Open revision history	Ctrl + Alt + Shift + h
+Close drawing editor	Shift + Esc
+Edit notes and comments
+
+Insert/edit note	Shift + F2
+Insert/edit comment	Ctrl + Alt + m
+Open comment discussion thread	Ctrl + Alt + Shift + a
+Enter current comment	holding Ctrl + Alt, press e then c
+Move to next comment	holding Ctrl + Alt, press n then c
+Move to previous comment	holding Ctrl + Alt, press p then c
+Use keyboard shortcuts on selected comments
+
+Reply to current comment	R
+Move to next comment	J
+Move to previous comment	K
+Resolve current comment	E
+Exit current comment	U
+Open a menu
+
+File menu	in Google Chrome: Alt + f
+other browsers: Alt + Shift + f
+Edit menu	in Google Chrome: Alt + e
+other browsers: Alt + Shift + e
+View menu	in Google Chrome: Alt + v
+other browsers: Alt + Shift + v
+Insert menu	in Google Chrome: Alt + i
+other browsers: Alt + Shift + i
+Format menu	in Google Chrome: Alt + o
+other browsers: Alt + Shift + o
+Data menu	in Google Chrome: Alt + d
+other browsers: Alt + Shift + d
+Tools menu	in Google Chrome: Alt + t
+other browsers: Alt + Shift + t
+Open insert menu	Ctrl + Alt + Shift + = 
+Ctrl + Alt + = 
+(with cells selected)
+Open delete menu	Ctrl + Alt + - (with cells selected)
+Form menu
+(present when the spreadsheet is connected to a form)	in Google Chrome: Alt + m
+other browsers: Alt + Shift + m
+Add-ons menu	in Google Chrome: Alt + n
+other browsers: Alt + Shift + n
+Help menu	in Google Chrome: Alt + h
+other browsers: Alt + Shift + h
+Accessibility menu
+(present when screen reader support is enabled)	in Google Chrome: Alt + a
+other browsers: Alt + Shift + a
+Sheet menu
+(copy, delete, and other sheet actions)	Alt + Shift + s
+Context menu	
+Ctrl + Shift + \
+Shift + F10
+
+Add or change rows and columns
+
+Insert rows above	
+Ctrl + Alt + Shift + =
+Ctrl + Alt + =
+(with rows selected)
+
+in Google Chrome: Alt + i, then r
+other browsers: Alt + Shift + i, then r
+
+Insert rows below	in Google Chrome: Alt + i, then w
+other browsers: Alt + Shift + i, then w
+Insert columns to the left	
+Ctrl + Alt + Shift + = 
+Ctrl + Alt + = 
+(with columns selected)
+
+in Google Chrome: Alt + i, then c
+other browsers: Alt + Shift + i, then c
+
+Insert columns to the right	in Google Chrome: Alt + i, then o
+other browsers: Alt + Shift + i, then o
+Delete rows	
+Ctrl + Alt + - (with rows selected)
+
+in Google Chrome: Alt + e, then d
+other browsers: Alt + Shift + e, then d
+
+Delete columns	
+Ctrl + Alt + - (with columns selected)
+
+in Google Chrome: Alt + e, then e
+other browsers: Alt + Shift + e, then e
+
+Hide row	Ctrl + Alt + 9
+Unhide row	Ctrl + Shift + 9
+Hide column	Ctrl + Alt + 0
+Unhide column	Ctrl + Shift + 0
+Group rows or columns	Alt + Shift + Right Arrow
+Ungroup rows or columns	Alt + Shift + Left Arrow
+Expand grouped rows or columns	Alt + Shift + Down Arrow
+Collapse grouped rows or columns	Alt + Shift + Up Arrow
+Use formulas
+
+Show all formulas	Ctrl + ~
+Insert array formula	Ctrl + Shift + Enter
+Collapse an expanded array formula	Ctrl + e
+Show/hide formula help
+(when entering a formula)	Shift + F1
+Full/compact formula help
+(when entering a formula)	F1
+Absolute/relative references
+(when entering a formula)	F4
+Toggle formula result previews
+(when entering a formula)	F9
+Resize formula bar
+(move up or down)	Ctrl + Up / Ctrl + Down
+Help for screen readers
+
+Turn on screen reader support
+Learn more about using Google Sheets with a screen reader	Ctrl + Alt + z
+Enable braille support	Ctrl + Alt + h
+Read column	Ctrl + Alt + Shift + c
+Read row	Ctrl + Alt + Shift + r
