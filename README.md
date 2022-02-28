@@ -32,7 +32,7 @@ Analyze Data to Answer Questions:
 
 Started:12 Feb 2022
 
-Ended:
+Ended: 28 Feb 2022
 
 S​hare Data Through the Art of Visualization 
 
