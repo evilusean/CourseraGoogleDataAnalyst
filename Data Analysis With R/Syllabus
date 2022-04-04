@@ -1,0 +1,301 @@
+https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics
+Start:04 April 2022
+
+Week 1
+The exciting world of programming
+Video: LectureIntroduction to the exciting world of programming
+. Duration: 6 minutes6 min
+. Click to resume
+Reading: Course syllabus
+. Duration: 10 minutes10 min
+Refresher: Your data analytics certificate roadmap
+. Duration: 10 minutes10 min
+Reading: The R-versus-Python debate
+. Duration: 10 minutes10 min
+Reading: Learning Log: Get ready to explore R
+. Duration: 20 minutes20 min
+Video: LectureFun with R
+. Duration: 5 minutes5 min
+Video: LectureCarrie: Getting started with R
+. Duration: 3 minutes3 min
+Discussion Prompt: Meet and greet
+. Duration: 10 minutes10 min
+Programming as a data analyst
+Video: LectureProgramming languages
+. Duration: 5 minutes5 min
+Reading: Ways to learn about programming
+. Duration: 10 minutes10 min
+Reading: From spreadsheets to SQL to R
+. Duration: 10 minutes10 min
+Practice Quiz: Self-Reflection: Ask a question
+1 question
+Video: LectureIntroduction to R
+. Duration: 6 minutes6 min
+Practice Quiz: Optional Hands-On Activity: Downloading and installing R
+1 question
+Practice Quiz: Optional Hands-On Activity: R Console
+1 question
+Practice Quiz: Test your knowledge on programming languages
+3 questions
+Learn programming using RStudio
+Video: LectureIntro to RStudio
+. Duration: 7 minutes7 min
+Practice Quiz: Hands-On Activity: Cloud access to RStudio
+1 question
+Practice Quiz: Optional Hands-On Activity: Get started in RStudio Desktop
+1 question
+Reading: When to use RStudio
+. Duration: 10 minutes10 min
+Discussion Prompt: R&R...Studio!
+. Duration: 10 minutes10 min
+Reading: Connecting with other analysts in the R community
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on programming with RStudio
+3 questions
+Weekly challenge 1
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 1
+8 questions
+Due Apr 11, 3:59 AM ADT
+
+Week2
+Understand basic programming concepts
+Video: LectureProgramming using RStudio
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureProgramming fundamentals
+. Duration: 8 minutes8 min
+Reading: Vectors and lists in R
+. Duration: 10 minutes10 min
+Reading: Dates and times in R
+. Duration: 10 minutes10 min
+Reading: Other common data structures
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on programming concepts
+4 questions
+Explore coding in R
+Video: LectureOperators and calculations
+. Duration: 5 minutes5 min
+Reading: Logical operators and conditional statements
+. Duration: 10 minutes10 min
+Reading: Guide: Keeping your code readable
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: R sandbox
+1 question
+Discussion Prompt: Queries and programming
+. Duration: 10 minutes10 min
+Basic Concepts of R
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on coding in R
+3 questions
+Learning about R packages
+Video: LectureThe gift that keeps on giving
+. Duration: 4 minutes4 min
+Reading: Available R packages
+. Duration: 10 minutes10 min
+Video: LectureWelcome to the tidyverse
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Installing and loading tidyverse
+1 question
+Practice Quiz: Test your knowledge on R packages
+3 questions
+Explore the tidyverse
+Video: LectureMore on the tidyverse
+. Duration: 5 minutes5 min
+Video: LectureWorking with pipes
+. Duration: 9 minutes9 min
+Reading: R resources for more help
+. Duration: 10 minutes10 min
+Video: LectureConnor: Coding tips
+. Duration: 5 minutes5 min
+Practice Quiz: Test your knowledge on the tidyverse
+3 questions
+Weekly challenge 2
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 2
+8 questions
+Due Apr 18, 3:59 AM ADT
+
+Week 3
+Explore data and R
+Video: LectureData in R
+. Duration: 1 minute1 min
+. Click to resume
+Video: LectureR data frames
+. Duration: 4 minutes4 min
+Video: LectureWorking with data frames
+. Duration: 4 minutes4 min
+Practice Quiz: Hands-On Activity: Create your own data frame
+1 question
+Reading: More about tibbles
+. Duration: 10 minutes10 min
+Reading: Data-import basics
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Importing and working with data
+1 question
+Discussion Prompt: Data in R versus SQL
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on R data frames
+4 questions
+Cleaning data
+Video: LectureCleaning up with the basics
+. Duration: 7 minutes7 min
+Reading: File-naming conventions
+. Duration: 10 minutes10 min
+Reading: More on R operators
+. Duration: 10 minutes10 min
+Video: LectureOrganize your data
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Cleaning data in R
+1 question
+Reading: Optional: Manually create a data frame
+. Duration: 10 minutes10 min
+Video: LectureTransforming data
+. Duration: 5 minutes5 min
+Reading: Wide to long with tidyr
+. Duration: 10 minutes10 min
+Clean, organize, and transform data with R
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on cleaning data
+3 questions
+Take a closer look at the data
+Video: LectureSame data, different outcome
+. Duration: 5 minutes5 min
+Video: LectureThe bias function
+. Duration: 5 minutes5 min
+Reading: Working with biased data
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Changing your data
+1 question
+Discussion Prompt: Compare data cleaning on different platforms
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on R functions
+3 questions
+Weekly challenge 3
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 3
+10 questions
+Due Apr 25, 3:59 AM ADT
+
+Week 4
+Create data visualizations in R
+Video: LectureVisualizations in R
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureVisualization basics in R and tidyverse
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Visualizing data with ggplot2
+1 question
+Video: LectureGetting started with ggplot()
+. Duration: 10 minutes10 min
+Reading: Common problems when visualizing in R
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Using ggplot
+1 question
+Discussion Prompt: Visualizations in Tableau versus R
+. Duration: 10 minutes10 min
+Video: LectureJoseph: Career path to people analytics
+. Duration: 3 minutes3 min
+Practice Quiz: Test your knowledge on data visualizations in R
+4 questions
+Explore aesthetics in analysis
+Video: LectureEnhancing visualizations in R
+. Duration: 8 minutes8 min
+Reading: Aesthetic attributes
+. Duration: 10 minutes10 min
+Video: LectureDoing more with ggplot
+. Duration: 8 minutes8 min
+Reading: Smoothing
+. Duration: 10 minutes10 min
+Video: LectureAesthetics and facets
+. Duration: 5 minutes5 min
+Practice Quiz: Hands-On Activity: Aesthetics and visualizations
+1 question
+Reading: Filtering and plots
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Filters and plots
+1 question
+Elements of ggplot
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on aesthetics in analysis
+4 questions
+Annotate and save visualizations
+Video: LectureAnnotation layer
+. Duration: 6 minutes6 min
+Reading: Adding annotations in R
+. Duration: 10 minutes10 min
+Video: LectureSaving your visualizations
+. Duration: 5 minutes5 min
+Reading: Saving images without ggsave()
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Annotating and saving visualizations
+1 question
+Discussion Prompt: Create your profile on the Coursera job platform
+. Duration: 10 minutes10 min
+Practice Quiz: Test your knowledge on annotating and saving visualizations
+4 questions
+Weekly challenge 4
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 4
+10 questions
+Due May 2, 3:59 AM ADT
+
+Week 5
+Develop documentation and reports in RStudio
+Video: LectureDocumentation and reports
+. Duration: 2 minutes2 min
+. Click to resume
+Video: LectureOverview of R Markdown
+. Duration: 3 minutes3 min
+Reading: R Markdown resources
+. Duration: 10 minutes10 min
+Reading: Optional: Jupyter notebooks
+. Duration: 10 minutes10 min
+Video: LectureUsing R Markdown in RStudio
+. Duration: 3 minutes3 min
+Practice Quiz: Hands-On Activity: Your R Markdown notebook
+2 questions
+Practice Quiz: Test your knowledge about documentation and reports
+4 questions
+Create R Markdown documents
+Video: LectureStructure of markdown documents
+. Duration: 5 minutes5 min
+Discussion Prompt: Using R Markdown notebooks
+. Duration: 10 minutes10 min
+Video: LectureMeg: Programming is empowering
+. Duration: 3 minutes3 min
+Video: LectureEven more document elements
+. Duration: 4 minutes4 min
+Practice Quiz: Test your knowledge about creating R Markdown documents
+4 questions
+Understand code chunks and exports
+Video: LectureCode chunks
+. Duration: 6 minutes6 min
+Practice Quiz: Hands-On Activity: Adding code chunks to R Markdown notebooks
+2 questions
+Video: LectureExporting documentation
+. Duration: 3 minutes3 min
+Reading: Output formats in R Markdown
+. Duration: 10 minutes10 min
+Practice Quiz: Hands-On Activity: Exporting your R Markdown notebook
+2 questions
+Practice Quiz: Hands-On Activity: Using R Markdown templates
+2 questions
+Practice Quiz: Test your knowledge on code chunks
+3 questions
+Weekly challenge 5
+Reading: Glossary: Terms and definitions
+. Duration: 5 minutes5 min
+Quiz: Weekly challenge 5
+8 questions
+Due May 9, 3:59 AM ADT
+Course wrap-up
+Quiz: Course challenge
+13 questions
+Due May 9, 3:59 AM ADT
+Reading: Coming up next...
+. Duration: 5 minutes5 min
