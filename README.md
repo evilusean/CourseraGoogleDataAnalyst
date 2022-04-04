@@ -38,8 +38,12 @@ Share Data Through the Art of Visualization
 
 Started:01 March 2022
 
-End:
+End: 04 April 2022
 
 Data Analysis with R Programming 
+
+Started:04 April 2022
+
+End:
 
 Google D​ata Analytics Capstone: Complete a Case Study 
