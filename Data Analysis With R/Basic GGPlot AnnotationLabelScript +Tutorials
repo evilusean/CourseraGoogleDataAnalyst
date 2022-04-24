@@ -1,0 +1,16 @@
+ggplot(mpg, aes(displ, hwy)) + 
+  geom_point(aes(colour = factor(cyl))) + 
+  labs(
+    x = "Engine displacement (litres)", 
+    y = "Highway miles per gallon", 
+    colour = "Number of cylinders",
+    title = "Mileage by engine size and cylinders",
+    subtitle = "Source: http://fueleconomy.gov"
+
+###
+Annotation Tutorials:
+https://viz-ggplot2.rsquaredacademy.com/ggplot2-text-annotations.html
+https://www.r-bloggers.com/2017/02/how-to-annotate-a-plot-in-ggplot2/
+https://ggplot2-book.org/annotations.html
+https://r-graph-gallery.com/233-add-annotations-on-ggplot2-chart.html
+https://ggplot2.tidyverse.org/reference/annotate.html
