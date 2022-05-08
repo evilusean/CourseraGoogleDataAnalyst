@@ -25,12 +25,16 @@ https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2
 https://rmarkdown.rstudio.com/lesson-15.html
 
 Output/Aesthetics/Prettify:
-Book Format:
+Book Format Template:
 https://github.com/rstudio/bookdown
+CV Template Vitae:
+https://github.com/mitchelloharawild/vitae
 Prettydoc:
 https://github.com/yixuan/prettydoc/
-Rticles:
+Rticles Template Journals/Publishers:
 https://github.com/rstudio/rticles
+Flex Dashboard Template:
+https://github.com/rstudio/flexdashboard
 Template Gallery:
 https://rmarkdown.rstudio.com/gallery.html
 29 Different R MarkDown Formats:
