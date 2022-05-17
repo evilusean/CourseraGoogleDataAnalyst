@@ -3,3 +3,5 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 https://divvy-tripdata.s3.amazonaws.com/202204-divvy-tripdata.zip
 Most Recent Dataset: April 2021-April 2022
 Started:May 16 2022
+Downloaded 12 CSV's, cleaned, and saved as .xls
+added new columns ride_length and day_of_week
