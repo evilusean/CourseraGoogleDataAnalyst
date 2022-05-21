@@ -9,5 +9,8 @@ formatted new ride_length column to time
 day_of_week 1=Sunday, 7=Saturday
 -Break-
 May 21:
-consolidated 12 spreadsheets into one, multiple crashes/attempts.
-combined columns:
+consolidated 12 spreadsheets into one, multiple crashes/attempts.1
+Tried Excel-Multiple crashes, Tried Apache OpenOffice-Multiple Crashes, finally worked with Google Sheets
+GoogleSheets Link to consolidated Data 2021 04-2022 04:
+https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
+
