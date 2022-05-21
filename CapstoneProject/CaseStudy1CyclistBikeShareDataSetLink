@@ -4,4 +4,10 @@ https://divvy-tripdata.s3.amazonaws.com/202204-divvy-tripdata.zip
 Most Recent Dataset: April 2021-April 2022
 Started:May 16 2022
 Downloaded 12 CSV's, cleaned, and saved as .xls
-added new columns ride_length and day_of_week
+added new columns ride_length(=D2-C2) and day_of_week(=WEEKDAY(C2))
+formatted new ride_length column to time
+day_of_week 1=Sunday, 7=Saturday
+-Break-
+May 21:
+consolidated 12 spreadsheets into one, multiple crashes/attempts.
+combined columns:
