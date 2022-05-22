@@ -15,4 +15,10 @@ GoogleSheets Link to consolidated Data 2021 04-2022 04, 212980 Rows:
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
 May 22: 
 Began cleaning and searching for outliers in aggregated dataset
-
+used functions to calculate
+mean ride_length
+00:19:02
+Max ride_length
+04:16:42
+Mode day_of_week/most popular day=Saturday
+7
