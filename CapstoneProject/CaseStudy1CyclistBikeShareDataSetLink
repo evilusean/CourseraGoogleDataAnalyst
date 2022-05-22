@@ -23,4 +23,10 @@ Max ride_length
 Mode day_of_week/most popular day=Saturday
 7
 
+May 22:
+added month function(=MONTH(C2))
 created pivot tables in googlesheets 
+member_casual by average ride length(difference between casual and members bike time)
+member_casual by average ride length by day_of_week
+day_of_week by unique trip_id count(most popular days)
+month count(most popular month-same? COUNTA pivot table)
