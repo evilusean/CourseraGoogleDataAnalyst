@@ -14,7 +14,7 @@ Tried Excel-Multiple crashes, Tried Apache OpenOffice-Multiple Crashes, FINALLY 
 GoogleSheets Link to consolidated Data 2021 04-2022 04, 212980 Rows:
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
 
-May 22(evening): 
+May 22(morning): 
 Began cleaning and searching for outliers in aggregated dataset
 used functions to calculate
 mean ride_length
@@ -24,7 +24,7 @@ Max ride_length
 Mode day_of_week/most popular day=Saturday
 7
 
-May 22(afternoon):
+May 22(evening):
 added month function(=MONTH(C2))
 created pivot tables in googlesheets 
 member_casual by average ride length(difference between casual and members bike time)
