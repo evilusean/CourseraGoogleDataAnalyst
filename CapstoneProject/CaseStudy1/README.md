@@ -1,1 +1,1 @@
-#Cyclistic: Google Data Analytics Case Study
+#Cyclistic: A Case Study
