@@ -1,0 +1,32 @@
+library(tidyverse)  #helps wrangle data
+library(lubridate)  #helps wrangle date attributes
+library(ggplot2)  #helps visualize data
+
+library(readxl)
+library(modeest)
+library(dplyr)
+getwd() #displays your working directory
+#setwd("I:\Coding\CourseraGoogleDataAnalyst\CaseStudy1\CS1XLS") 
+#set working directory manually, at top go to 'Session' -> 'Set Working Directory'
+Df <- read_xlsx("202104-202204Consolidateddivvy-tripdata.xlsx")
+#created dataframe using read_xlsx with aggregated dataset
+str(Df)
+#displays STRucture of dataframe
+Nrow(Df)
+#212979 rows
+dim(Df)
+#DIMensions=212979 rows by 15 columns
+
+Df <- Df %>% 
++     select(-c(start_lat, start_lng, end_lat, end_lng))
+
+#used a pipe to reduce the Dataframe and remove unneeded data to make it less 'busy'
+#-c argument removes from dataframe
+colnames(Df)
+#check columns; formerly 15 down to 11
+Df <- drop_na(Df)
+#drop NA rows
+head(Df)
+#Check top 6 rows
+summary(Df)
+#summary of data
