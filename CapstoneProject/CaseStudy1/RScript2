@@ -16,15 +16,18 @@ Nrow(Df)
 dim(Df)
 #DIMensions=212979 rows by 15 columns
 
-Df <- Df %>% 
-+     select(-c(start_lat, start_lng, end_lat, end_lng))
-
+#Df <- Df %>% 
+#+     select(-c(start_lat, start_lng, end_lat, end_lng))
+#Df <- Df %>% select(Df, -c(start_lat, start_lng, end_lat, end_lng))
 #used a pipe to reduce the Dataframe and remove unneeded data to make it less 'busy'
 #-c argument removes from dataframe
+Df <- subset (Df, select = -c(start_lat,start_lng, end_lat, end_lng))
+#used subset for final analysis
+
 colnames(Df)
 #check columns; formerly 15 down to 11
 Df <- drop_na(Df)
-#drop NA rows
+#drop NA rows, down to 150,874 rows, 11 columns
 head(Df)
 #Check top 6 rows
 summary(Df)
