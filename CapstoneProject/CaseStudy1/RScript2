@@ -7,8 +7,21 @@ library(dplyr)
 getwd() #displays your working directory
 #setwd("I:\Coding\CourseraGoogleDataAnalyst\CaseStudy1\CS1XLS") 
 #set working directory manually, at top go to 'Session' -> 'Set Working Directory'
-Df <- read_xlsx("202104-202204Consolidateddivvy-tripdata.xlsx")
+all_trips <- read_xlsx("202104-202204Consolidateddivvy-tripdata.xlsx")
 #created dataframe using read_xlsx with aggregated dataset
+
+(all_trips <- rename(all_trips
++                    ,ride_id = trip_id
++                    ,rideable_type = bikeid 
++                    ,started_at = start_time  
++                    ,ended_at = end_time  
++                    ,start_station_name = from_station_name 
++                    ,start_station_id = from_station_id 
++                    ,end_station_name = to_station_name 
++                    ,end_station_id = to_station_id 
++                    ,member_casual = usertype))
+#rename columns
+
 str(Df)
 #displays STRucture of dataframe
 Nrow(Df)
@@ -21,7 +34,7 @@ dim(Df)
 #Df <- Df %>% select(Df, -c(start_lat, start_lng, end_lat, end_lng))
 #used a pipe to reduce the Dataframe and remove unneeded data to make it less 'busy'
 #-c argument removes from dataframe
-Df <- subset (Df, select = -c(start_lat,start_lng, end_lat, end_lng))
+all_trips <- subset (all_trips, select = -c(ride_length, day_of_week, start_lat, start_lng, end_lat, end_lng))
 #used subset for final analysis
 
 colnames(Df)
