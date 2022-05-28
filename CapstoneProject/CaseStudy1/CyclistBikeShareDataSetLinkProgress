@@ -38,6 +38,9 @@ Created Github repository to display final results
 May 26
 Loaded aggregated Excel dataset in R to create Data Viz's
 typecasting error-future sean problem
+#Error in as.POSIXlt.character(x, tz, ...) : 
+#  character string is not in a standard unambiguous format
+#need to typecast or mutate using lubridate
 
 May 27
 present sean dealing with the issues, picked up where left off, part of the learning process
