@@ -38,3 +38,4 @@ Final analysis was completed in RStudio. An initial summary can be seen below:
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InitialSummary.jpg?raw=true"
 width="600"></center>  
 </p>  
+Here we can see a mean ride length of 19 minutes and most popular day being Saturday.
