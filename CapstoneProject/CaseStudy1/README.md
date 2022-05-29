@@ -21,6 +21,7 @@ Data was cleaned and converted to .xlsx using GoogleSheets.
 Raw CSV's can be found here:
 
 https://divvy-tripdata.s3.amazonaws.com/index.html
+
 Converted and saved to .xlsx on GoogleSheets:
 
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
