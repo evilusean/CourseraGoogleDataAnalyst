@@ -17,7 +17,7 @@ Questions we will attempt to answer in this analysis:
 - How can Cyclistic use digital media to influence casual riders to become members? 
 
 ## Prepare
-The Data we are using for this study is an aggregated dataset from April2021-April2022 of all users on 
+The Data we are using for this study is an aggregated dataset from April2021-April2022 of all users in Chicago on 
 5,824 bicycles linked to 692 docking stations. All pertinent identifiable information has been removed to
 protect the privacy and safety of our customers. Data was downloaded in 12 zip files as CSV. 
 Data was cleaned and converted to .xlsx using GoogleSheets.
