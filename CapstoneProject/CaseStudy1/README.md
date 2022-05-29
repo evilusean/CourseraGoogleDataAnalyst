@@ -48,3 +48,6 @@ An initial summary can be seen below:
 width="600"></center>  
 </p>  
 Here we can see a mean ride length of 19 minutes with a max of over 4 hours, and most popular day being Saturday.
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/CasualMemberStartTotals.jpg"</center>  
+</p>  
