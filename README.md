@@ -1,5 +1,9 @@
 # CourseraGoogleDataAnalyst
 
+Completed Certificate: 29 May 2022
+
+https://www.credly.com/badges/951ea09d-f4e4-4d91-9c28-d2c5a6eb2cdd/public_url
+
 https://www.coursera.org/professional-certificates/google-data-analytics
 
 https://grow.google/certificates/data-analytics/
@@ -49,3 +53,5 @@ End:08 May 2022
 Google D​ata Analytics Capstone: Complete a Case Study 
 
 Started:09 May 2022
+
+End:29 May 2022
