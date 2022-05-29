@@ -31,3 +31,10 @@ Data was organized under 15 columns(ride ID #, ride type, start/end time, ride l
 starting point(location,latitude/longitude), ending point(location, latitude/longitude), and member/casual rider.
 Duplicate rows were removed, as well as NA or incomplete rows before final analysis. 
 New columns for ride length and day of week were added. 
+
+## Analyze
+Final analysis was completed in RStudio. An initial summary can be seen below:
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InitialSummary.jpg?raw=true"
+width="600"></center>  
+</p>  
