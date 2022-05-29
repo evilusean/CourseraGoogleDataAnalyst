@@ -29,6 +29,10 @@ Converted and saved to .xlsx on GoogleSheets:
 
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
 
+Data License Agreement, Motivate International Inc:
+
+https://ride.divvybikes.com/data-license-agreement
+
 ## Process
 Data was organized under 15 columns(ride ID #, ride type, start/end time, ride length, day of the week
 starting point(location,latitude/longitude), ending point(location, latitude/longitude), and member/casual rider.
