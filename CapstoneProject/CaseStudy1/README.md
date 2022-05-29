@@ -34,6 +34,7 @@ New columns for ride length and day of week were added.
 
 ## Analyze
 Final analysis was completed in RStudio. RStudio allows us to work on larger datasets, over 212,970 rows. 
+The script used for analysis can be found in the directory above.
 An initial summary can be seen below:
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InitialSummary.jpg?raw=true"
