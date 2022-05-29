@@ -47,12 +47,12 @@ An initial summary can be seen below:
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InitialSummary.jpg?raw=true"
 width="600"></center>  
 </p>  
-Here we can see a mean ride length of 19 minutes with a max of over 4 hours, and most popular day being Saturday.
+Here we can see a mean ride length of 19 minutes with a max of over 4 hours, and most popular day being Saturday(7).
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/BoxPlotTripDurationByDay.png?raw=true"
 width="600"></center>  
 </p> 
-
+Here we can see the quartile distributions of each day as a boxplot with a marked increase on Friday and Saturday.
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/CasualMemberStartTotals.jpg"</center>  
 </p>  
