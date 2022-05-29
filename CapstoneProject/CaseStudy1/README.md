@@ -57,3 +57,7 @@ After cleaning our data, here we can see the ride length quartile distributions 
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/CasualMemberStartTotals.jpg"</center>  
 </p>  
 Let's take a look at our member totals.
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/Deeper.jpg?raw=true"</center>  
+</p>  
+** Comedic Interlude **
