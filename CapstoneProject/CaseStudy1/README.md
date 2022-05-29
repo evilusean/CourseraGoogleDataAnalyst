@@ -19,8 +19,10 @@ The Data we are using for this study is an aggregated dataset from April2021-Apr
 protect the privacy and safety of our customers. Data was downloaded in 12 zip files as CSV. 
 Data was cleaned and converted to .xlsx using GoogleSheets.
 Raw CSV's can be found here:
+
 https://divvy-tripdata.s3.amazonaws.com/index.html
 Converted and saved to .xlsx on GoogleSheets:
+
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
 Data was organized under 15 columns(ride ID #, ride type, start/end time, ride length, day of the week,
 starting point(location,latitude/longitude), ending point(location, latitude/longitude), and member/casual rider.
