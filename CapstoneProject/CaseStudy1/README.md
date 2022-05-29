@@ -11,7 +11,10 @@ What is our business task? Our director of marketing at Cyclistic beleives that 
 as well as profits depends on maximizing the number of annual memberships. We would wish to gain greater
 insight as to how we can convert casual members into annual members. After coming to our data driven 
 conclusions we should forward our plan to shareholders and executives for approval.
-
+Questions we will attempt to answer in this analysis:
+- How do annual members and casual riders use Cyclistic bikes differently?
+- Why would casual riders buy Cyclistic annual memberships?
+- How can Cyclistic use digital media to influence casual riders to become members? 
 
 ## Prepare
 The Data we are using for this study is an aggregated dataset from April2021-April2022 of all users on 
