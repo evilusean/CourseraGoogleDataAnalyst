@@ -51,3 +51,4 @@ Here we can see a mean ride length of 19 minutes with a max of over 4 hours, and
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/CasualMemberStartTotals.jpg"</center>  
 </p>  
+Let's take a look at our member totals.
