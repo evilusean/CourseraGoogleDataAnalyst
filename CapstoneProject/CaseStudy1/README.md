@@ -33,7 +33,8 @@ Duplicate rows were removed, as well as NA or incomplete rows before final analy
 New columns for ride length and day of week were added. 
 
 ## Analyze
-Final analysis was completed in RStudio. An initial summary can be seen below:
+Final analysis was completed in RStudio. RStudio allows us to work on larger datasets, over 212,970 rows. 
+An initial summary can be seen below:
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InitialSummary.jpg?raw=true"
 width="600"></center>  
