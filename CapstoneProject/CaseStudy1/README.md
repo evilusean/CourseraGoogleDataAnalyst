@@ -25,6 +25,7 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 Converted and saved to .xlsx on GoogleSheets:
 
 https://docs.google.com/spreadsheets/d/17PRkKdoOxplCeMKx-h2xYo883Jlf73SjdkrrpvU0zZs/edit?usp=sharing
+
 Data was organized under 15 columns(ride ID #, ride type, start/end time, ride length, day of the week,
 starting point(location,latitude/longitude), ending point(location, latitude/longitude), and member/casual rider.
 Duplicate rows were removed, as well as NA or incomplete rows before final analysis in RStudio. 
