@@ -61,3 +61,7 @@ Let's take a look at our member totals.
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/Deeper.jpg?raw=true"</center>  
 </p>  
 <!-- Comedic Interlude -->
+Here we can see very consistent usage of our members with a spike in usage for both casuals and members beginning in June, or more broadly summer. This trend peaks in July and begins to falloff. Casual riders tend to mostly use our bikes in the summer while our members use the bikes regularly throughout all months. 
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/RideByMonthCasualVsMember.png?raw=true"
+width="600"></center> 
