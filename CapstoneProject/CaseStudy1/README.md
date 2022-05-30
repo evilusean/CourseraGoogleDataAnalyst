@@ -67,7 +67,7 @@ Here we can see very consistent usage of our members with a spike in usage for b
 width="600"></center> 
 
 This is an interesting chart, we can see that Casual members prefer to ride on the weekends, and members ride consistently throughout the week.
-We can draw a few assumptions from this data. Casual members ride for leisure and our full subscription users ride to and from work or school as their main source of transportation.
+We can draw a few assumptions from this data. Casual members ride for leisure and our full subscription users ride to and from work or school as their main source of transportation. We can also see that docked bikes are the preferred mode of transportation for both types of riders.
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/RideByDay.png?raw=true"
 width="600"></center> 
