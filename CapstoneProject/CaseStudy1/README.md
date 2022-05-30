@@ -71,3 +71,8 @@ We can draw a few assumptions from this data. Casual members ride for leisure an
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/RideByDay.png?raw=true"
 width="600"></center> 
+
+Here we can see monthly totals and bike usage with an overwhelming prefererence for both casuals and members for docked bikes, with peak docked usage in August. We have 0 classic bike usage for May till November. Bike theives, availability, preference? We would need to investigate and provide more analysis as to why this sudden and sustained dropoff in usage for classic bikes appears, which we are unable to do at this time.  
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/RideByMonth.png?raw=true"
+width="600"></center> 
