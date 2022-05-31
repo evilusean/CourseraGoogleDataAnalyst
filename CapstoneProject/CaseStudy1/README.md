@@ -76,3 +76,8 @@ Here we can see monthly totals and bike usage with an overwhelming prefererence 
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/RideByMonth.png?raw=true"
 width="600"></center> 
+
+On this graph we can see a comparison between ride times of Casuals and Members for each Month. This confirms and strengthens our argument that Casuals use our bikes primarily for leisure on Fridays and Saturdays, while our Members are primarily using it for routine transportation. We can see consistent usage by our members for shorter duration trips(>~20minutes) during all months of the year. While our casuals use the bikes primarily during the summer months and for longer durations(>~30minutes) until the weather begins to cool. 
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/AverageTripMemberVsCasual.png?raw=true"
+width="600"></center> 
