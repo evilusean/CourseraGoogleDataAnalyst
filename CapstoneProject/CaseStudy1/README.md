@@ -81,3 +81,5 @@ On this graph we can see a comparison between ride times of Casuals and Members 
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/AverageTripMemberVsCasual.png?raw=true"
 width="600"></center> 
+
+## Act
