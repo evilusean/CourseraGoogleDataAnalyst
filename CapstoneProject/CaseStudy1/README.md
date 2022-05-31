@@ -112,6 +112,7 @@ width="600"></center>
 ### Appeal to Frugality:
 
 Although this may seem counterintuitive to get more customers, we should increase prices. 
+
 Everything is getting more expensive due to the increase in gas prices, people almost expect it at this point.
 Since we are already positioned to gain marketshare as prices increase, we should take advantage of this fact.
 With an expected 18month lag from policy decision(money printing) until it trickles down to main street, we have our timeframe.
