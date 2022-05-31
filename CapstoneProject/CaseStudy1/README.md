@@ -84,3 +84,8 @@ width="600"></center>
 
 ## Act
 What is to be done? We can make several digital marketing appeals to our potential customers.
+(To my prospective employers, these are not my charts, I'm using them to show you my thought process.)
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/2018-Obesity-Prevalence.png?raw=true"
+width="600"></center> 
+### Appeal to Health:
