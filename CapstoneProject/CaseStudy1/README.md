@@ -99,3 +99,4 @@ width="600"></center>
 
 ### Appeal to Emotion:
 
+Gas prices are a non-partisan issue. Look around you, any object that got to where you are by truck, train, boat, or plane. Fuel is one of their main inputs, so when gas prices go up, the cost of everything goes up. Transportation is a must have, not a want, and as gas continues to rise in price we are naturally positioned to gain more and more marketshare. We can appeal to peoples already negative outlook on the issue and remind them, there is a cheaper way. 'Gas prices got you down? Try Cyclistic!'
