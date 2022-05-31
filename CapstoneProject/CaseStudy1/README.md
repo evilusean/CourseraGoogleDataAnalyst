@@ -83,3 +83,4 @@ On this graph we can see a comparison between ride times of Casuals and Members 
 width="600"></center> 
 
 ## Act
+What is to be done? We can make several digital marketing appeals to our potential customers.
