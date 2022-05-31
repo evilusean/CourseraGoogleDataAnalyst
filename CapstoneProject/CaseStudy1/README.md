@@ -108,3 +108,16 @@ width="800"></center>
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/InflationGetFeducated.jpg?raw=true"
 width="600"></center>
+
+### Appeal to Frugality:
+
+Although this may seem counterintuitive to get more customers, we should increase prices. 
+Everything is getting more expensive due to the increase in gas prices, people almost expect it at this point.
+Since we are already positioned to gain marketshare as prices increase, we should take advantage of this fact.
+With an expected 18month lag from policy decision(money printing) until it trickles down to main street, we have our timeframe.
+How much? Well, 1.8 trillion in M1 currency supply to 2.2 trillion is an increase of 20%, which is what we can expect to see in inflation. 
+What we could do is raise prices in the range of 20-40% while grandfathering any old customers which would increase their brand loyalty.
+We could concurrently run an ad campaign offering 20% off for 3 months of a yearly subscription, with the new price. So it will give the appearance of a bargain, whilst increasing our profits and hedging us against future inflation.
+We should also consider raising our own employee's salary in the range of 15-25% to compensate, the increased cost of overhead can be offset by our increased prices on new subscribers. This would increase employee morale which would boost our productivity, and loyalty. 
+
+Another option we could employ is offering weekend passes, at a fraction of the cost of a regular subscription. Through our analysis, we have seen that the most popular days are Friday, Saturday, and Sunday. This would help us sign on new formerly casual customers, to a more permanent plan. Obviously we would need to look into availability of bicycles, and see if we have the excess capacity to allow for this. 
