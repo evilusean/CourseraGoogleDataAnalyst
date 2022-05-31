@@ -103,4 +103,4 @@ Gas prices are a non-partisan issue. Look around you, any object that got to whe
 
 <p align="center">  
 <img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/FedCurrencyInCirculationM1.jpg?raw=true"
-width="600"></center>
+width="800"></center>
