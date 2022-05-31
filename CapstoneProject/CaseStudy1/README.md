@@ -91,4 +91,11 @@ What is to be done? We can make several digital marketing appeals to our potenti
 width="600"></center>
 
 ### Appeal to Health: 
-Above we can see a discouarging trend, this chart was done pre-covid/'New Normal' sedentary lifestyle. We could make a targetted ad campaign to potential customers in Chicago based around creating a positive emotional state. We can push the positive health benefits of riding a bicycle to stay healthy as well as viewing all the wonderful attractions and fresh air Chicago has to offer. 'Not only will you look good, you will feel good, too!'
+Above we can see a discouraging trend, this chart was done pre-covid/'New Normal' sedentary lifestyle. We could make a targetted ad campaign to potential customers in Chicago based around creating a positive emotional state. We can push the positive health benefits of riding a bicycle to stay healthy as well as viewing all the wonderful attractions and fresh air Chicago has to offer. 'Not only will you look good, you will feel good, too!'
+
+<p align="center">  
+<img src="https://github.com/evilusean/CourseraGoogleDataAnalyst/blob/main/CapstoneProject/CaseStudy1/LetThemEatBicycles.jpg?raw=true"
+width="600"></center>
+
+### Appeal to Emotion:
+
