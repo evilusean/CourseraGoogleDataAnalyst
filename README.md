@@ -1,5 +1,7 @@
 # CourseraGoogleDataAnalyst
 
+Start: 01Jan2022
+
 Completed Certificate: 29 May 2022
 
 https://www.credly.com/badges/951ea09d-f4e4-4d91-9c28-d2c5a6eb2cdd/public_url
